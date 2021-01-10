@@ -1,6 +1,6 @@
 ## testSgbm
 
-#### testSgbm 车道
+#### testSgbm
 ```
 rm -rf *
 cmake .. && make -j4
